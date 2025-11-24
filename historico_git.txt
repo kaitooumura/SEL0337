@@ -1,0 +1,5 @@
+commit 364af8c2bd96bfd106032f94bcea9783a4d6eb69
+Author: kaitooumura <kaito.oumura@usp.br>
+Date:   Mon Nov 24 20:23:15 2025 +0000
+
+    Pratica 5
