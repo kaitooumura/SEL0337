@@ -1,5 +1,13 @@
 # Prática 5: Configuração de Serviços SystemD e Versionamento com Git
 
+**SEL0337 - PROJETOS EM SISTEMAS EMBARCADOS**
+**Prática 5: Controle de Versão com Git e GitHub**
+
+- **Aluno:** Gabriel Breda Coelho
+- **Nº USP:** 14746360
+- **Aluno:** Heitor Kaito Oumura
+- **Nº USP:** 13828101
+
 ## Resumo do Projeto
 Este projeto foi desenvolvido para a disciplina SEL0337 - Projetos em Sistemas Embarcados. O objetivo principal foi explorar o processo de inicialização (boot) de sistemas Linux embarcados, configurando o systemd para gerenciar serviços personalizados.
 
