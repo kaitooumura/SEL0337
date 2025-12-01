@@ -11,6 +11,10 @@ Foi implementada uma aplicação de automação que controla um LED conectado à
 * Protoboard e Jumpers
 * Conexão na GPIO 15 (BCM)
 
+### Fotos do Projeto
+
+![Foto da Montagem](img/montagem.jpg)
+
 ## Estrutura dos Arquivos
 O projeto é composto pelos seguintes scripts desenvolvidos em Python:
 
